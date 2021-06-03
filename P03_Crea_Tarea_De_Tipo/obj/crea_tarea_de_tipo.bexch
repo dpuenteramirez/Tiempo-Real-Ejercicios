@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__crea_tarea_de_tipo.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Crea_Tarea_De_Tipo\crea_tarea_de_tipo.gpr
+20210510075056 be8ce8e71d3f2c5742c00f86c520e473
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Crea_Tarea_De_Tipo\obj\tipos_tarea.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Crea_Tarea_De_Tipo\obj\crea_tarea_de_tipo.o
+[GENERATED SOURCE FILES]
+b__crea_tarea_de_tipo.ads
+b__crea_tarea_de_tipo.adb
+b__crea_tarea_de_tipo.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Crea_Tarea_De_Tipo\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Crea_Tarea_De_Tipo\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

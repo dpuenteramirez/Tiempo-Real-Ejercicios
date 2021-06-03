@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__hola_mundo.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Hola_Mundo\hola_mundo.gpr
+20210418213542 cd6007bf2dd8ba547a546e9786b3c1f3
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Hola_Mundo\obj\hola_mundo.o
+[GENERATED SOURCE FILES]
+b__hola_mundo.ads
+b__hola_mundo.adb
+b__hola_mundo.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Hola_Mundo\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Hola_Mundo\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

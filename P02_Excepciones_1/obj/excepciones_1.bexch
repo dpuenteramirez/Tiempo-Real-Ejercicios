@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__excepciones_1.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Excepciones_1\excepciones_1.gpr
+20210510070138 c8ad067c75cbd485a2ec6ce1120963af
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Excepciones_1\obj\excepciones_1.o
+[GENERATED SOURCE FILES]
+b__excepciones_1.ads
+b__excepciones_1.adb
+b__excepciones_1.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Excepciones_1\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Excepciones_1\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

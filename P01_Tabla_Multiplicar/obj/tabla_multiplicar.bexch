@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__tabla_multiplicar.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tabla_Multiplicar\tabla_multiplicar.gpr
+20210419080136 e43794f8e2e25a9491f93b9ec1c216ea
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tabla_Multiplicar\obj\tabla_multiplicar.o
+[GENERATED SOURCE FILES]
+b__tabla_multiplicar.ads
+b__tabla_multiplicar.adb
+b__tabla_multiplicar.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tabla_Multiplicar\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tabla_Multiplicar\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Locations>
+  <Project>
+    <vfs_file />
+    <file_marker column=" 13" line=" 36" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\nota_media.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 27" line=" 7" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\nota_media.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 17" line=" 2" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\nota_media.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 14" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\nota_media.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\main.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\maximo.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Nota_Media\src\nota_media.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Maximo\src\maximo.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

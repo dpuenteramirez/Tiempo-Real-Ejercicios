@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 4" line=" 4" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\src\greet.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\src\greetings.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 3" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\src\greetings.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\src\greet.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

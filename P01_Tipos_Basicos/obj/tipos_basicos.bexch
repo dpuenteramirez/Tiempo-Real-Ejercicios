@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__tipos_basicos.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tipos_Basicos\tipos_basicos.gpr
+20210419071650 3c83c6a933497eaf2755e038f378254b
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tipos_Basicos\obj\tipos_basicos.o
+[GENERATED SOURCE FILES]
+b__tipos_basicos.ads
+b__tipos_basicos.adb
+b__tipos_basicos.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tipos_Basicos\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Tipos_Basicos\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

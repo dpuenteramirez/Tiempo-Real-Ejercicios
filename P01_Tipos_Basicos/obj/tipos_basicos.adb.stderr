@@ -1,0 +1,3 @@
+tipos_basicos.adb:8:07: warning: variable "K" is never read and never assigned
+tipos_basicos.adb:12:04: warning: variable "B" is never read and never assigned
+tipos_basicos.adb:15:13: warning: "J" may be referenced before it has a value

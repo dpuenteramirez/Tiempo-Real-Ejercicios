@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__prueba_complejos.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Prueba_Complejos\prueba_complejos.gpr
+20180320204216 8a9213529b5c8dfb29a389e2beb1b309
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Prueba_Complejos\obj\Complejos.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Prueba_Complejos\obj\prueba_complejos.o
+[GENERATED SOURCE FILES]
+b__prueba_complejos.ads
+b__prueba_complejos.adb
+b__prueba_complejos.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Prueba_Complejos\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Prueba_Complejos\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

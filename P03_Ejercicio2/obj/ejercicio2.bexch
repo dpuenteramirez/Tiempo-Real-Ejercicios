@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__ejercicio2.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Ejercicio2\ejercicio2.gpr
+20210510080752 92ac670205448fdc53b1f616043e0bc7
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Ejercicio2\obj\ejercicio2.o
+[GENERATED SOURCE FILES]
+b__ejercicio2.ads
+b__ejercicio2.adb
+b__ejercicio2.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Ejercicio2\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Ejercicio2\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

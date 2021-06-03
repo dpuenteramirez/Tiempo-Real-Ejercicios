@@ -1,0 +1,20 @@
+[GENERATED OBJECT FILE]
+b__greet.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\greet.gpr
+20210503065122 2025d3be1d1b8c135378017dec2c23a9
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\obj\greetings.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\obj\greet.o
+[GENERATED SOURCE FILES]
+b__greet.ads
+b__greet.adb
+b__greet.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Greet\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

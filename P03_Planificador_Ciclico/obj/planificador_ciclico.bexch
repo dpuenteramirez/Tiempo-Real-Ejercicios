@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__planificador_ciclico.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Planificador_Ciclico\planificador_ciclico.gpr
+20210517081906 4abc47a6e46068dcc995e5c82bfae9e4
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Planificador_Ciclico\obj\planificador_ciclico.o
+[GENERATED SOURCE FILES]
+b__planificador_ciclico.ads
+b__planificador_ciclico.adb
+b__planificador_ciclico.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Planificador_Ciclico\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Planificador_Ciclico\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

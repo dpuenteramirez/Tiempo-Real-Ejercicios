@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__cita_en_ada.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Cita_En_Ada\cita_en_ada.gpr
+20210517070410 2e1f9e72ba1d0e462e02339a4e563dda
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Cita_En_Ada\obj\cita_en_ada.o
+[GENERATED SOURCE FILES]
+b__cita_en_ada.ads
+b__cita_en_ada.adb
+b__cita_en_ada.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Cita_En_Ada\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Cita_En_Ada\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

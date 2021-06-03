@@ -1,0 +1,23 @@
+[GENERATED OBJECT FILE]
+b__tarea_dina_declare.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Tarea_Dinamica_Declare\tarea_dina_declare.gpr
+20210517063752 de189f205276f8d8a349a7f4fff00e02
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Tarea_Dinamica_Declare\obj\tipos_tarea.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Tarea_Dinamica_Declare\obj\tarea_dina_declare.o
+[GENERATED SOURCE FILES]
+b__tarea_dina_declare.ads
+b__tarea_dina_declare.adb
+b__tarea_dina_declare.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Tarea_Dinamica_Declare\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P03_Tarea_Dinamica_Declare\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

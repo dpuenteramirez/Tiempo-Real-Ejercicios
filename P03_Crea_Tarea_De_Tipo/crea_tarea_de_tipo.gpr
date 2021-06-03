@@ -1,0 +1,5 @@
+project Crea_Tarea_De_Tipo is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("crea_tarea_de_tipo.adb");
+end Crea_Tarea_De_Tipo;

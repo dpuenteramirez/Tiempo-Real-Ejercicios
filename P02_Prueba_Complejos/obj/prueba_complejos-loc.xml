@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project>
+    <vfs_file />
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Prueba_Complejos\src\Complejos.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 1" line=" 1" >
+      <vfs_project />
+      <vfs_file>Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Prueba_Complejos\src\Complejos.ads</vfs_file>
+    </file_marker>
+  </Project>
+  <Project >
+    <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_file>
+    <file_marker column=" 1" line=" 8">
+      <vfs_project >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_project>
+      <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\src\prueba_complejos.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 4" line=" 8">
+      <vfs_project >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_project>
+      <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\src\Complejos.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 4">
+      <vfs_project >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_project>
+      <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\src\Complejos.ads</vfs_file>
+    </file_marker>
+    <file_marker column=" 6" line=" 12">
+      <vfs_project >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_project>
+      <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\src\Complejos.ads</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 4" line=" 8">
+      <vfs_project >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\prueba_complejos.gpr</vfs_project>
+      <vfs_file >C:\_UBU\TIEMPO REAL\18_19\PRACTICAS\Aplicaciones\Prueba_Complejos\src\prueba_complejos.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>

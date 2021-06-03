@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__array_modalidad1.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Array_Modalidad1\array_modalidad1.gpr
+20210426072930 b76fd9028ad3b204e5333b358540b019
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Array_Modalidad1\obj\array_modalidad1.o
+[GENERATED SOURCE FILES]
+b__array_modalidad1.ads
+b__array_modalidad1.adb
+b__array_modalidad1.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Array_Modalidad1\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P01_Array_Modalidad1\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

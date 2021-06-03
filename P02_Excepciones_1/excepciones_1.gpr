@@ -1,0 +1,5 @@
+project Excepciones_1 is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("excepciones_1.adb");
+end Excepciones_1;

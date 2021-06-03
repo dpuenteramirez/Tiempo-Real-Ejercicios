@@ -1,0 +1,5 @@
+project Planificador_Ciclico_Sin_Prioridades is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("planificador_ciclico_sin_prioridades.adb");
+end Planificador_Ciclico_Sin_Prioridades;

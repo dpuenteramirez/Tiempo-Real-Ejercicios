@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__lista_alumnos.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\lista_alumnos.gpr
+20210503073914 d2cbf3acbbd220821bd880f1bc4889f8
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\alumnos.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\clases.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\menu.o
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\lista_alumnos.o
+[GENERATED SOURCE FILES]
+b__lista_alumnos.ads
+b__lista_alumnos.adb
+b__lista_alumnos.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Lista_Alumnos\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

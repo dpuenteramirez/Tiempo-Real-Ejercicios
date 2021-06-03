@@ -1,0 +1,19 @@
+[GENERATED OBJECT FILE]
+b__fich_1.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Ficheros\fich_1.gpr
+20210510064054 6469c60d74c482891f8dbd76a4ef71f7
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Ficheros\obj\fich_1.o
+[GENERATED SOURCE FILES]
+b__fich_1.ads
+b__fich_1.adb
+b__fich_1.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Ficheros\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\P02_Ficheros\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000

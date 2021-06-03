@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__planificador_ciclico_sin_prioridades.o
+[PROJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Planificador_Ciclico_Sin_Prioridades\planificador_ciclico_sin_prioridades.gpr
+20210602175458 5d3568e7144234f9b53d95141a1401b8
+[BOUND OBJECT FILES]
+Z:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Planificador_Ciclico_Sin_Prioridades\obj\planificador_ciclico_sin_prioridades.o
+[GENERATED SOURCE FILES]
+b__planificador_ciclico_sin_prioridades.ads
+b__planificador_ciclico_sin_prioridades.adb
+b__planificador_ciclico_sin_prioridades.ali
+[RESULTING OPTIONS]
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Planificador_Ciclico_Sin_Prioridades\obj\
+-LZ:\Documents\Programacion Concurrente y de Tiempo Real\Tiempo Real\Practicas\Planificador_Ciclico_Sin_Prioridades\obj\
+-LC:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnarl.a
+C:/gnat/2020/lib/gcc/x86_64-pc-mingw32/9.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads

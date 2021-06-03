@@ -1,0 +1,5 @@
+project Cita_En_Ada is
+    for Source_Dirs use ("src");
+    for Object_Dir use "obj";
+    for Main use ("cita_en_ada.adb");
+end Cita_En_Ada;
